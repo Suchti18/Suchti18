@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical)](https://github.com/Suchti18)
+[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical)](https://github.com/Suchti18)
 
-[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical)](https://github.com/Suchti18)
+[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Suchti18&show_icons=true&theme=radical)](https://github.com/Suchti18)
 
 
 
