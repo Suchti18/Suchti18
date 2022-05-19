@@ -1,8 +1,11 @@
 ### Hi there 👋
+[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical)](https://github.com/Suchti18)
+
+[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical)](https://github.com/Suchti18)
+
+
 
 <!--
-**Suchti18/Suchti18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
