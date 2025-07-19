@@ -1,5 +1,6 @@
 ### Hi there 👋 <!--my name is Suchti18 from :de:-->
-<!--I am currently learning HTML/CSS/JS-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
 
 <!--
 [![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical)](https://github.com/Suchti18)
