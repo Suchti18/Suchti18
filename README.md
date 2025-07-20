@@ -2,6 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suchti18" alt="Suchti18" /> </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Suchti18/Suchti18/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 [![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical)](https://github.com/Suchti18)
 
