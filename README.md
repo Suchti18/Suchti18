@@ -12,25 +12,28 @@
   </a>
   
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
   </a>
+
+  <!--
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  -->
 </p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchti18&show_icons=true&locale=en" alt="suchti18" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suchti18&show_icons=true&locale=en&theme=radical" alt="suchti18" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical" alt="suchti18" />
+</p>
 
 ---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Suchti18/Suchti18/output/snake.svg" alt="Snake animation" />
-
-<!--
-[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchti18&layout=compact&theme=radical)](https://github.com/Suchti18)
-
-[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Suchti18&show_icons=true&theme=radical)](https://github.com/Suchti18)
--->
 
 <!--
 Here are some ideas to get you started:
